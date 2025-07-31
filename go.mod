@@ -1,4 +1,4 @@
-module webrtc-engine
+module github.com/amjealousy/webrtc-engine
 
 go 1.24
 
