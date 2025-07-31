@@ -1,4 +1,4 @@
-package main
+package webrtc_engine
 
 import (
 	"fmt"
